@@ -1,4 +1,4 @@
-# codexcafe
+
 # ☕ CodexCaffe – Where Code Meets Coffee
 
 **CodexCaffe** is a Laravel-based website that blends the passion for coding with the vibe of a cozy café. It's designed to showcase a modern and responsive landing page with smooth user experience, clean aesthetics, and tech-themed elegance.
